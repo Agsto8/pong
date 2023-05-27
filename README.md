@@ -1,2 +1,5 @@
 # pong
-Pong game
+
+# Game
+
+A simle pygame Pong game
